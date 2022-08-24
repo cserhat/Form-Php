@@ -1,0 +1,85 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+.content
+{
+    display: flex;
+    justify-content: center;
+}
+.payment
+{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid gray;
+    border-radius: 10px;
+    max-width: 30em;
+    height: 43em;
+    margin-top: 1vh;
+}
+.select
+{
+    border: 1px solid gray;
+    height: 11vh;
+    width: 50%;
+    flex-direction: column;
+    margin-left: 30vh;
+    margin-top: 3vh;
+}
+.select span
+{
+    position: absolute;
+    margin-top:-10px;
+    margin-left: 10px;
+}
+.select input
+{
+    margin-left: 3vh;
+    margin-top: 1vh;
+}
+#title
+{
+    margin-top: 2vh;
+    margin-left: 2vh;
+}
+.contact
+{
+    margin-left: 21.8vh;
+    margin-top: 2vh;
+}
+.contact input
+{
+    width: 72%;
+    margin-top: 2vh;
+    height: 3vh;
+}
+#pass
+{
+    margin-left: -3.2vh;
+}
+.card_information
+{
+    margin-left: 2vh;
+    margin-top: 2vh;
+}
+.card_information .card_type
+{
+    margin-left: 15vh;
+    margin-top: 2vh;
+}
+.card_information input 
+{
+    max-width: 70%;
+    min-width: 70%;
+    margin-top: 2vh;
+    height: 3vh;
+}
+
+button
+{
+    height: 5vh;
+    width: 30vh;
+    margin-left: 20vh;
+    margin-top: 10vh;
+}
